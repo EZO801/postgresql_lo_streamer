@@ -1,4 +1,5 @@
 # postgresql_lo_streamer [![Build Status](https://travis-ci.org/diogob/postgresql_lo_streamer.svg?branch=master)](https://travis-ci.org/diogob/postgresql_lo_streamer)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fpostgresql_lo_streamer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fpostgresql_lo_streamer?ref=badge_shield)
 
 This gem adds to your application a controller that can read PostgreSQL Large Objects and stream them to a HTTP client.
 
@@ -63,3 +64,7 @@ So, for our previous example, if you have a model called `Image`, with and attri
 Copyright (c) 2012 Diogo Biazus. See MIT-LICENSE for
 further details.
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fpostgresql_lo_streamer.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fpostgresql_lo_streamer?ref=badge_large)
